@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/CSC258/Lab 2/Q
+vmux2
+Z1 !s110 1538024498
+!i10b 1
+!s100 5cGd6U_hoW?VUH9b0Qe252
+I?MTYXX?ObbHag6hI;mM]N0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1538024481
+Z4 8mux2.v
+Z5 Fmux2.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1538024497.000000
+Z8 !s107 mux2.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|mux2.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vmux2to1
+R1
+!i10b 1
+!s100 ]T]f57UzMNhFhF5e0^YR42
+IUK3bn:bAJ0HXVhKig_GL82
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4to1
+R1
+!i10b 1
+!s100 _N_6Dg2QJ5aXIOFUXMazH3
+I25lz5J;?lHD@784fz_ShH2
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

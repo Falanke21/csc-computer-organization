@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/CSC258/Lab 3/part2
+vfull_adder
+Z1 !s110 1538694099
+!i10b 1
+!s100 Q;2e]bkSNM3n8gMK1zKcV0
+IoRgG9707PaY316^=3=3PQ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1538691825
+Z4 8rc_adder.v
+Z5 Frc_adder.v
+L0 38
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1538694099.000000
+Z8 !s107 rc_adder.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|rc_adder.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vrc_adder
+R1
+!i10b 1
+!s100 o9HVl>Yel>R]bbK>DQHNM1
+IHkNRd8[g6<IjnT0GCnOk61
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

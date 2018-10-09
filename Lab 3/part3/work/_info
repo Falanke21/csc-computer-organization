@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/CSC258/Lab 3/part3
+valu
+Z1 !s110 1538695015
+!i10b 1
+!s100 NzHGlg@Vkj0cI=@]0iJIL1
+IhbfC=_SEi?P0gkXSB9DFF3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1538691894
+Z4 8alu.v
+Z5 Falu.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1538695015.000000
+Z8 !s107 alu.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|alu.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+valu_logic
+!s110 1538676660
+!i10b 1
+!s100 mZKOZ1k]lUc7]f9R9FE3D2
+I4QT6l6G;e[RZCf5f4IR^Q1
+R2
+R0
+w1538676655
+R4
+R5
+L0 6
+R6
+r1
+!s85 0
+31
+!s108 1538676660.000000
+R8
+R9
+!i113 1
+R10
+R11
+vdecoder
+R1
+!i10b 1
+!s100 1BbYTG5jL]50>mi9jaah01
+I3HncJ_RS:?[oR?M10Kbma1
+R2
+R0
+R3
+R4
+R5
+L0 103
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vfull_adder
+R1
+!i10b 1
+!s100 _Bda7B;maez_QEYQeDYWF3
+Io4R8LHPz0e[4NibPHhbeF0
+R2
+R0
+R3
+R4
+R5
+L0 84
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrc_adder
+R1
+!i10b 1
+!s100 Qeo6?O=35EXj8Qn?INOe@0
+Imj[dZL0FL`@S8S>mKcVVI1
+R2
+R0
+R3
+R4
+R5
+L0 47
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs0
+R1
+!i10b 1
+!s100 3efoo_X1HVZ8F:m8gN]lC0
+IY9:9VLE4`9gGUAGJhEEKY1
+R2
+R0
+R3
+R4
+R5
+L0 164
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs1
+R1
+!i10b 1
+!s100 P9>7f1CY@`V1kg:c;dlc@1
+IzfmJIM?FJ94lg80OD8FY`0
+R2
+R0
+R3
+R4
+R5
+L0 173
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs2
+R1
+!i10b 1
+!s100 ?3HbT6g`h[OaX5V<dEkCK3
+IaQmNf?dH=?IR:R9NA6fWB2
+R2
+R0
+R3
+R4
+R5
+L0 182
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs3
+R1
+!i10b 1
+!s100 a<ERBHL<coI4n;hkK47AS3
+IalWNFM9Rn^1fYn;fhT7dX3
+R2
+R0
+R3
+R4
+R5
+L0 191
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs4
+R1
+!i10b 1
+!s100 =SGGSDHIJ:J8^76ELH16f2
+IkP]nfD??2aP2I9@eKS6QJ3
+R2
+R0
+R3
+R4
+R5
+L0 200
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs5
+R1
+!i10b 1
+!s100 9<L^QKF]IWIS@gBMN7T8]2
+IGHF;mlM72QdlZo2jUi[DO3
+R2
+R0
+R3
+R4
+R5
+L0 209
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vs6
+R1
+!i10b 1
+!s100 Co2T;JGg6UU<F<50OE[gR1
+Ink@6S:Zhn=lDS`HFk<S0m0
+R2
+R0
+R3
+R4
+R5
+L0 218
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
