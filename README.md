@@ -1,2 +1,2 @@
 # csc-two-fifty-eight
-My implementation of this course. Not to be plagiarized. 
+My code for this course. Not to be plagiarized. 
