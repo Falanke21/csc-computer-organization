@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/CSC258/Lab4/part3
+varithmetic_shift_right
+Z1 !s110 1539286050
+!i10b 1
+!s100 F5Njc`mEg[EH;Y3;m=HRd1
+I6B4^`cokA70Y7AnnT4ZX[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1539285470
+Z4 8shift_register.v
+Z5 Fshift_register.v
+L0 36
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1539286050.000000
+Z8 !s107 shift_register.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|shift_register.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vflipflop
+R1
+!i10b 1
+!s100 ]6Mj=9YHCklL[BH52HPg33
+IB`Ec<U4Z1@Pj1S4DU8:;<2
+R2
+R0
+R3
+R4
+R5
+L0 70
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux2to1
+R1
+!i10b 1
+!s100 MABkXn?QEHaJ@9KOoKHQa1
+IOfQ=kXCXAd4YVaIYN0aV=3
+R2
+R0
+R3
+R4
+R5
+L0 87
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vshift_register
+R1
+!i10b 1
+!s100 8e=:;HZ025IBT?AXQ:gD12
+IBcl9`PYBZ2=mog90C^I0P3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vshift_register_logic
+R1
+!i10b 1
+!s100 lD>E^0T2XNzlh;d?FZGdG0
+II2hPW]QIk>DD5f;d;WSFb2
+R2
+R0
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vshifter
+R1
+!i10b 1
+!s100 4S3W8Rh6bKRJ_SdQPL`G>2
+IHTG@BnRC8KCzFV=P2b@C90
+R2
+R0
+R3
+R4
+R5
+L0 54
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
