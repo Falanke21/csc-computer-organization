@@ -1,6 +1,8 @@
 module counter (KEY, SW, HEX0, HEX1);
   input [1:0] SW;
-  input [0] KEY;
+  input [3:0] KEY;
+  output [6:0] HEX0;
+  output [6:0] HEX1;
 
   wire [7:0] temp;
 
@@ -35,7 +37,7 @@ module counter_logic (enable, clock, clear_b, out);
   my_tff m3(.clk(clock), .clear(clear_b), .t(two), .q(out[3]));
   my_tff m4(.clk(clock), .clear(clear_b), .t(three), .q(out[4]));
   my_tff m5(.clk(clock), .clear(clear_b), .t(four), .q(out[5]));
-  my_tff m6(.clk(clock), .clear(clear_b), .t(five), .q(out[6));
+  my_tff m6(.clk(clock), .clear(clear_b), .t(five), .q(out[6]));
   my_tff m7(.clk(clock), .clear(clear_b), .t(six), .q(out[7]));
 
 endmodule // counter_logic
