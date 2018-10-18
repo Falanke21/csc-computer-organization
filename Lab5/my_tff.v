@@ -1,4 +1,4 @@
-module tff (clk, clear, t, q);
+module my_tff (clk, clear, t, q);
   input clk, clear, t;
   output q;
   reg q;
