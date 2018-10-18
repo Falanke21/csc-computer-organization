@@ -6,7 +6,7 @@ module counter (KEY, SW, HEX0, HEX1);
 
   wire [7:0] temp;
 
-  counter_logic c0(.enable(SW[1]), .clock(KEY[0]), .clear_b(SW[0]), .out(temp[7:0]));
+  counter_logic c0(.enable(SW[1]), .clock(KEY[0]), .clear_b(SW[0]), .out(temp));
 
   hex_display h1(.in(temp[7:4]), .HEX(HEX1));
   hex_display h0(.in(temp[3:0]), .HEX(HEX0));
@@ -52,9 +52,10 @@ module my_tff (clk, clear, t, q);
   always @ ( posedge clk, negedge clear )
     begin
       if (clear == 1'b0)
-        q <= 0;
+        q <= 1'b0;
       else
-        q <= ~q;
+        if (t == 1'b1)
+          q <= ~q;
   end
 endmodule // tff
 
