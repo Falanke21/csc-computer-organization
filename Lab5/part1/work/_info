@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/University/CSC258/Lab5/part1
 vcounter
-Z1 !s110 1539881011
+Z1 !s110 1539881843
 !i10b 1
 !s100 @fX;3z>YSZZYiLik3>JO@1
 I852bJ`lL<mI<5=];i2`cl3
@@ -23,7 +23,7 @@ Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1539881011.000000
+Z7 !s108 1539881843.000000
 Z8 !s107 counter.v|
 Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|counter.v|
 !i113 1
