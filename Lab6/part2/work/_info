@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/University/CSC258/Lab6/part2
 vcontrol
-Z1 !s110 1541017618
+Z1 !s110 1541112534
 !i10b 1
 !s100 `D39;43fNBmL7h:J1:KGR0
 IV?`MM:E;AiMD3kTU2]eId3
@@ -23,7 +23,7 @@ Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1541017618.000000
+Z7 !s108 1541112534.000000
 Z8 !s107 poly_function_modified.v|
 Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|poly_function_modified.v|
 !i113 1
