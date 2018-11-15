@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/University/CSC258/Lab7/part1
 vram32x4
-!s110 1542083080
+!s110 1542325187
 !i10b 1
 !s100 ;^BLTO6lghzZ?IMklD^:U3
 Iio8^lo9>nTYQN^PFXC`NI2
@@ -23,7 +23,7 @@ OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1542083080.000000
+!s108 1542325187.000000
 !s107 ram32x4.v|
 !s90 -reportprogress|300|-timescale|1ns/1ns|ram32x4.v|
 !i113 1

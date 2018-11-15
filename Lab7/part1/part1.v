@@ -5,10 +5,10 @@
 
 module part1 (SW, KEY, HEX0, HEX2, HEX4, HEX5);
   input [9:0] SW;
-  input KEY[0];
+  input [3:0] KEY;
   output [6:0] HEX0, HEX2, HEX4, HEX5;
 
-  wire out;
+  wire [3:0] out;
 
   ram32x4 r0(SW[8:4], KEY[0], SW[3:0], SW[9], out);
   hex_display h0({3'b000, SW[8]}, HEX5);
