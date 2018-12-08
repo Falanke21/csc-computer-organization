@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/CSC258/Lab7/part2/lab7_part2/lab7_part2
+vcontrol
+Z1 !s110 1542329887
+!i10b 1
+!s100 QVP`JWJ5=9<;5=i64?m`B1
+Ig1ff3keW`[AYBX89`oE2k1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1542329542
+Z4 8part2.v
+Z5 Fpart2.v
+L0 101
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1542329887.000000
+Z8 !s107 part2.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|part2.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vcounter_logic
+!s110 1542231185
+!i10b 1
+!s100 o[B^CSNIORAjJ8mDE=H:O2
+I2S7?m?mYIk0G]6QLEF]mU2
+R2
+R0
+w1542230279
+R4
+R5
+L0 177
+R6
+r1
+!s85 0
+31
+!s108 1542231185.000000
+R8
+R9
+!i113 1
+R10
+R11
+vdatapath
+R1
+!i10b 1
+!s100 S?mOI^FBga>@23CfMA;3>1
+I:GYhUz3zoAb`T??B6ZMAQ0
+R2
+R0
+R3
+R4
+R5
+L0 160
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vfour_bit_counter
+R1
+!i10b 1
+!s100 MD609;G`=Ef`Y=zdnE@>g0
+I7^lHkXW]XIeadAIG0A>Vb2
+R2
+R0
+R3
+R4
+R5
+L0 201
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmy_tff
+R1
+!i10b 1
+!s100 NLm>bK8fBMDQIW[bCSllZ0
+II`1W39SSYfiVoo0`FcVTQ3
+R2
+R0
+R3
+R4
+R5
+L0 221
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpart2
+R1
+!i10b 1
+!s100 j^FhFbCl6_VRD8m75X4iE1
+I?Sz40HfVE>eoAWJD4_Om71
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtogether
+R1
+!i10b 1
+!s100 6YVEJ[nKSfiX=ACLElY5c2
+ITE93YEb9Xc=n=84JgX@Qe3
+R2
+R0
+R3
+R4
+R5
+L0 82
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
